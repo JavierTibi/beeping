@@ -16,13 +16,13 @@ Before you start, make sure you have the following prerequisites installed on yo
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/JavierTibi/beeping
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd your-repo
+    cd beeping
     ```
 
 3. Install project dependencies using Composer:
